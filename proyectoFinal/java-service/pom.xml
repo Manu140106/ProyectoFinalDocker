@@ -60,7 +60,7 @@
 
                     <archive>
                         <manifest>
-                            <mainClass>com.example.Main</mainClass>
+                            <mainClass>comexample.Main</mainClass>
                         </manifest>
                     </archive>
 
